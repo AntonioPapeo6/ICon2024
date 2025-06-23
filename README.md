@@ -17,7 +17,7 @@ Bisogna inoltre lanciare il comando per installare PySwip:
 ## Introduzione   *****DA SOSTITUIRE*****
 |Notebook|Link|
 |---|---|
-|Documentazione relativa al progetto |[pdf](https://github.com/AntonioPapeo6/ICon2024/blob/main/Documentazione/BeerSpotter%20-Papeo.pdf)|
+|Documentazione relativa al progetto |[pdf](https://github.com/AntonioPapeo6/ICon2024/blob/main/Documentazione/BeerSpotter-Papeo.pdf)|
 |Documentazione relativa ad analisi dei dati e apprendimento in Python (Notebook Colab)|[link](https://github.com/AntonioPapeo6/ICon2024/blob/main/Documentazione/BeerClassification.ipynb)|
 |Documentazione relativa al KBS in Prolog (Notebook SWISH)|[web](https://swish.swi-prolog.org/p/SWISHBeerSpotterr.pl) - [pdf](https://github.com/AntonioPapeo6/ICon2024/blob/main/Documentazione/SWISHBeerSpotterr.pdf)|
 
