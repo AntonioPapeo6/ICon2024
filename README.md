@@ -14,7 +14,7 @@ Bisogna inoltre lanciare il comando per installare PySwip:
 
 `python -m pip install git+https://github.com/yuce/pyswip@master#egg=pyswip`
 
-## Introduzione   *****DA SOSTITUIRE*****
+## Introduzione   
 |Notebook|Link|
 |---|---|
 |Documentazione relativa al progetto |[pdf](https://github.com/AntonioPapeo6/ICon2024/blob/main/Documentazione/BeerSpotter.pdf)|
